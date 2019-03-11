@@ -30,6 +30,10 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="ilyakarachov" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/imp-f/blog-symfony-react.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\ilya\PhpstormProjects" />
