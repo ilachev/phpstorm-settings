@@ -54,6 +54,14 @@
           <option name="url" value="git@bitbucket.org:tavros-completo/ozinkovka.ru.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:igor-vetrov-dev-team/cotd.info.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/igor-vetrov-dev-team/cotd.info.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\ilya\PhpstormProjects" />
