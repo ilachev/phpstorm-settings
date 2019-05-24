@@ -66,6 +66,10 @@
           <option name="url" value="https://github.com/ElisDN/yii2-demo-shop.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/papacarlo.studio/shop.ladoni.farm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\ilya\PhpstormProjects" />
