@@ -70,6 +70,10 @@
           <option name="url" value="https://gitlab.com/papacarlo.studio/shop.ladoni.farm.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/sites_efsol/42clouds.com.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\ilya\PhpstormProjects" />
