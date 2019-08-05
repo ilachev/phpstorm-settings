@@ -28,7 +28,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="ilyakarachov" />
+          <option name="userName" value="ilyakarachev" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/imp-f/blog-symfony-react.git" />
@@ -86,9 +86,13 @@
           <option name="url" value="git@github.com:imp-foo/test.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:restonet/restoclub-2019.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\ilya\PhpstormProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/C:\Users\ilya\PhpstormProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
