@@ -94,9 +94,13 @@
           <option name="url" value="https://ilyakarachev@bitbucket.org/restonet/restoclub-2019.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:restonet/zabbix-microservice.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/C:\Users\ilya\PhpstormProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
