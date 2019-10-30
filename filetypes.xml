@@ -6,8 +6,8 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".bablerc" type="JavaScript" />
       <mapping ext="tpl" type="PHP" />
-      <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="php___jb_old___" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
