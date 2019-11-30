@@ -2,8 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="docker" type="Dockerfile" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".bablerc" type="JavaScript" />
       <mapping ext="tpl" type="PHP" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
