@@ -4,6 +4,7 @@
       <set>
         <option value="C:\Go" />
         <option value="C:\Users\ilya\sdk\go1.13.6" />
+        <option value="C:\Users\ilyak\sdk\go1.14.1" />
       </set>
     </sdk-path>
   </component>
