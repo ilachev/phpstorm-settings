@@ -154,6 +154,10 @@
           <option name="url" value="https://github.com/impfou/os.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/karlkeefer/pngr.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\ilyak\IdeaProjects" />
