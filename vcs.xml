@@ -167,8 +167,8 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://gitlab.beauit.com" />
-          <option name="userName" value="i.karachev" />
+          <option name="url" value="git@github.com:docker/docker-ce.git" />
+          <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://gitlab.com/ilyakara/keller.git" />
@@ -179,7 +179,6 @@
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
