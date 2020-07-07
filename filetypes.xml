@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="docker" type="Dockerfile" />
+      <removed_mapping pattern=".prettierrc" approved="true" type="JSON" />
       <mapping pattern="simple-phpunit" type="PLAIN_TEXT" />
       <mapping pattern="docker-healthcheck" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
