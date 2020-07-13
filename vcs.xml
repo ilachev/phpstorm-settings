@@ -178,6 +178,10 @@
           <option name="url" value="http://gitlab.beauit.com" />
           <option name="userName" value="i.karachev" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.beauit.com/genearea/genearea-areas-fe.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
