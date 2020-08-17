@@ -3,11 +3,11 @@
     <extensionMap>
       <mapping ext="docker" type="Dockerfile" />
       <mapping pattern=".bablerc" type="JavaScript" />
+      <mapping pattern="console-test" type="PHP" />
       <mapping ext="tpl" type="PHP" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="php___jb_old___" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
