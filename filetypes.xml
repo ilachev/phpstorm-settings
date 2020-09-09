@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="docker" type="Dockerfile" />
+      <mapping pattern=".dockerignore" type="GitIgnore file" />
       <mapping pattern=".bablerc" type="JavaScript" />
       <mapping pattern="console-test" type="PHP" />
       <mapping ext="tpl" type="PHP" />
