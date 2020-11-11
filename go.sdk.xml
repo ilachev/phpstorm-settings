@@ -3,11 +3,6 @@
     <sdk-path>
       <set>
         <option value="$USER_HOME$/sdk/go1.14.3" />
-        <option value="/snap/go/5830" />
-        <option value="/snap/go/current" />
-        <option value="C:\Go" />
-        <option value="C:\Users\ilya\sdk\go1.13.6" />
-        <option value="C:\Users\ilyak\sdk\go1.14.1" />
       </set>
     </sdk-path>
   </component>
