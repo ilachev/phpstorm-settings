@@ -4,8 +4,6 @@
       <mapping ext="docker" type="Dockerfile" />
       <mapping pattern=".dockerignore" type="GitIgnore file" />
       <mapping pattern=".bablerc" type="JavaScript" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="console-test" type="PHP" />
       <mapping ext="tpl" type="PHP" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
@@ -25,6 +23,8 @@
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="tpl" approved="true" type="Smarty" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
